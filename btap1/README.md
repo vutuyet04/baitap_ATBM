@@ -338,7 +338,7 @@ Sau khi hoàn thành quá trình giải mã, bản mã được chuyển trở l
 
 AES được sử dụng rộng rãi hơn DES do có kích thước khóa lớn hơn, mức độ bảo mật cao hơn và hiệu năng phù hợp với các hệ thống hiện đại.
 
-!\[Cài đặt AES trên Python](01-cai-dat-aes.png)
+!\[Cài đặt AES trên Python](01-caidat-aes.png)
 
 Chú ý: cài đặt AES trên Python thành công
 
@@ -834,7 +834,7 @@ RSA thường được sử dụng cho:
 
 *4.3. So sánh*
 
-|Tiêu chí		|AES|RSA|
+|Tiêu chí|AES|RSA|
 |-|-|-|
 |Loại thuật toán|Đối xứng|Bất đối xứng|
 |Số khóa|Một khóa bí mật|Khóa công khai và khóa bí mật|

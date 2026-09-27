@@ -338,7 +338,7 @@ Sau khi hoàn thành quá trình giải mã, bản mã được chuyển trở l
 
 AES được sử dụng rộng rãi hơn DES do có kích thước khóa lớn hơn, mức độ bảo mật cao hơn và hiệu năng phù hợp với các hệ thống hiện đại.
 
-!\[Cài đặt AES trên Python](01-caidat-aes.png)
+![Cài đặt AES trên Python](01-caidat-aes.png)
 
 Chú ý: cài đặt AES trên Python thành công
 
